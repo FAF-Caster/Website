@@ -4,9 +4,9 @@ Static, dependency-free project landing page for FAF Caster.
 
 ## Publish on GitHub Pages
 
-After merging this change into `main`:
+The website files are committed to `main`. To publish:
 
-1. Open **Settings → Pages** in `FAF-Caster/FAF-Caster`.
+1. Open **Settings → Pages** in `FAF-Caster/Website`.
 2. Under **Build and deployment**, select **Deploy from a branch**.
 3. Choose **main** and **/(root)**, then **Save**.
 4. The site should be available at **https://faf-caster.github.io/Website/** after GitHub finishes deploying it.
